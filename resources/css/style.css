@@ -11,12 +11,14 @@ html {
 
 /*Header*/
 
+
 header {
   height: 69px;
   align-items: center;
   background-color: black;
   position: fixed;
   width: 100%;
+  z-index: 1;
 }
 
 div {
@@ -31,6 +33,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  border-bottom: 1px solid seashell;
 
 }
 
@@ -171,4 +174,7 @@ nav {
 
 footer {
   width: 100%;
+}
+.copyright{
+  padding-left: 10px;
 }
