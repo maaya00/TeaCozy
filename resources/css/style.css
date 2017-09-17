@@ -87,6 +87,7 @@ nav {
 
 .main {
   width: 100%;
+  margin-left: 20px;
 }
 
 .main.container {
@@ -160,6 +161,7 @@ nav {
 
 .contact{
   width: 100%;
+  margin-left: 20px;
 }
 .contact.container {
   width: 1200px;
